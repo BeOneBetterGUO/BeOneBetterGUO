@@ -5,6 +5,8 @@ Now I know that i know nothing, but i'm learing, and i'll keeping learning all t
 
 I hope my code have some value, even it's just a little.
 
+I hope i can add more things in the future.
+
 <!--
 **BeOneBetterGUO/BeOneBetterGUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

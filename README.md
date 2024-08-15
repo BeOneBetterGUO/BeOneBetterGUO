@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm just trying to type something down.
+
+Now I know that i know nothing, but i'm learing, and i'll keeping learning all the time.
+
+I hope my code have some value, even it's just a little.
 
 <!--
 **BeOneBetterGUO/BeOneBetterGUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

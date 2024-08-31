@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm just trying to type something down.
 
-Now I know that i know nothing, but i'm learing, and i'll keeping learning all the time.
+Now I know that i know nothing, but i'm learning, and i'll keep learning all the time.
 
 I hope my code have some value, even it's just a little.
 
